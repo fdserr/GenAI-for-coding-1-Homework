@@ -1,3 +1,18 @@
+// INSTRUCTIONS
+// To run a specific chapter, uncomment the chapter 
+// function call in this file. 
+// E.g., to run chapter2, remove double slashes 
+// before chapter2:
+// chapter2();
+//
+// To stop a chapter from running, add double 
+// slashes before it:
+// chapter1();
+//
+// To see the results directly, edit the corresponding 
+// chapter file.
+// E.g., to see results for chapter1, 
+// open "chapter1.js" and modify.
 
 // Import required modules
 const readline = require("readline");
